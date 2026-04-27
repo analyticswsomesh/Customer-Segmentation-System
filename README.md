@@ -1,5 +1,7 @@
 # 📊 Customer Segmentation & Revenue Optimization System
-This project analyzes e-commerce transaction data to identify high-value customers and improve revenue using data-driven techniques.
+
+This project builds an end-to-end customer analytics system to identify high-value customers and optimize business revenue using data-driven techniques.
+It combines RFM analysis, machine learning, and interactive dashboards to simulate real-world business decision making.
 
 ---
 
@@ -22,22 +24,31 @@ This project analyzes e-commerce transaction data to identify high-value custome
 ## 📊 Dashboard Preview
 
 ### 🔹 Main Dashboard
-<img src="assets/dashboard.png">
+<p align="center">
+  <img src="assets/dashboard.png" width="700">
+</p>
 
 ---
 
 ### 🔹 Filters & Navigation
-<img src="assets/sidebar.png">
+<p align="center">
+  <img src="assets/nav_sidebar.png" width="45%">
+  <img src="assets/filters_sidebar.png" width="45%">
+</p>
 
 ---
 
 ### 🔹 Charts & Insights
-<img src="assets/charts.png">
+<p align="center">
+  <img src="assets/charts.png" width="700">
+</p>
 
 ---
 
 ### 🔹 Data Explorer
-<img src="assets/data_explorer.png"> 
+<p align="center">
+  <img src="assets/data_explorer.png" width="700">
+</p>
 
 ---
 
