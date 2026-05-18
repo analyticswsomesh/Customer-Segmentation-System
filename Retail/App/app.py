@@ -303,9 +303,4 @@ elif page == "📂 Data Explorer":
         top_customers = filtered_data.sort_values(by='monetary', ascending=False).head(10)
         st.dataframe(top_customers[['CustomerID','monetary','frequency','recency']])
 
-    st.markdown("---")
-
-    st.subheader("Retail Data Preview")
-    st.dataframe(cleaned_df.head(100))
-
 # Run Using--> python -m streamlit run app/streamlit.py
