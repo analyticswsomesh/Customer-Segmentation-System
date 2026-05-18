@@ -7,8 +7,8 @@ if "page" not in st.session_state:
     st.session_state.page = "📊 Dashboard"
 
 # Data
-rfm = pd.read_csv("C:/Users/somes/OneDrive/Desktop/Retail/Data/final_rfm_with_clusters.csv")
-cleaned_df = pd.read_csv("C:/Users/somes/OneDrive/Desktop/Retail/Data/cleaned_retail.csv")
+rfm = pd.read_csv("data/final_rfm_with_clusters.csv")
+#cleaned_df = pd.read_csv("C:/Users/somes/OneDrive/Desktop/Retail/Data/cleaned_retail.csv")
 
 # COLORS  ==========================================================================
 COLORS = {
