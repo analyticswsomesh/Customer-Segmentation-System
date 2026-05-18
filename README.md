@@ -32,8 +32,8 @@ It combines RFM analysis, machine learning, and interactive dashboards to simula
 
 ### 🔹 Filters & Navigation
 <p align="center">
-  <img src="nav_sidebar.png" width="45%">
-  <img src="filters_sidebar.png" width="45%">
+  <img src="assets/nav_sidebar.png" width="45%">
+  <img src="assets/filters_sidebar.png" width="45%">
 </p>
 
 ---
